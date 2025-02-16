@@ -1,0 +1,6 @@
+@DotnetEfPropsTesting_HostAddress = http://localhost:5192
+
+GET {{DotnetEfPropsTesting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
